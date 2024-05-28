@@ -598,6 +598,14 @@ video {
   border-width: 1px;
 }
 
+.font-LeagueSpartan {
+  font-family: League Spartan, sans-serif;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
 .underline {
   text-decoration-line: underline;
 }
