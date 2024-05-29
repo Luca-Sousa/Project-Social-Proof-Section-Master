@@ -18,7 +18,6 @@ module.exports = {
         'Image-mobile': "url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg')",
       },
       backgroundPosition: {
-        'Image-position-desktop': 'top 0 left 0, right 0 bottom 0', //'right 60vw bottom 62vh, left 30vw top 30vh'
         'Image-position-mobile': 'top 0 left 0, right 0 bottom 0',
       }
     },
